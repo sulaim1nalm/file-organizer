@@ -1,10 +1,10 @@
-# 🗂️ File Organizer – Python Automation Project
+#  File Organizer – Python Automation Project
 
 This is a Python-based automation script that organizes files in a selected folder by sorting them into categorized subfolders (e.g., Images, Videos, Documents, etc.). It helps keep your directories clean and structured automatically.
 
 ---
 
-## 📁 Features
+##Features
 
 - Automatically scans a folder and sorts files into categorized subfolders
 - Supports common file types: images, videos, documents, executables, etc.
@@ -14,7 +14,7 @@ This is a Python-based automation script that organizes files in a selected fold
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. The user selects a target folder using a file dialog GUI.
 2. The script scans that folder (and optionally its subfolders).
@@ -28,7 +28,7 @@ This is a Python-based automation script that organizes files in a selected fold
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - `tkinter` (for GUI)
@@ -37,9 +37,11 @@ This is a Python-based automation script that organizes files in a selected fold
 
 ---
 
-## 🖥️ How to Run the Script
+##  How to Run the Script
 
 ### Option 1 – Run from Python directly:
 ```bash
 python organizer_gui.py
-﻿# file-organizer
+
+
+
